@@ -94,7 +94,7 @@ class MSControler:
         ev3.screen.print(
             "\n"
             + "   上方第一条线：最高分数\n\n"
-            + "   上方第一条线：当前分数\n\n\n"
+            + "   上方第二条线：当前分数\n\n\n"
             + "   当前最高分数："
             + str(self.TopScore)
             + "\n"
