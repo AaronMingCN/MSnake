@@ -83,7 +83,7 @@ class MSControler:
             + "   MMM   MMM\n"
             + "   MMMM MMMM\n"
             + "   MM MMM MM  AaronMing 2020\n"
-            + "   MM  M  MM   MSnake  V0.0 \n"
+            + "   MM  M  MM   MSnake  V0.0.0\n"
             + "   MM     MM     《贪食蛇》\n"
             + "  MMMM   MMMM\n"
             + "============================="

@@ -6,7 +6,7 @@
 #           MM MMM MM
 #           MM  M  MM
 #           MM     MM
-#          MMMM   MMMM     AaronMing 2020
+#          MMMM   MMMM     AaronMing 2020-2023
 #
 #       贪食蛇，蛇的定义
 #
