@@ -16,7 +16,7 @@
 #       2021-12-19 提交到GitHub
 #       Remote Open Test
 #       PSPi VSC Test
-#       Ubuntu
+#       Ubuntu check out and commit test
 ###################################################################
 
 
@@ -28,7 +28,7 @@ from UMSControler import *
 
 
 G = MSGround(ABrick = ev3, GridVisible = True)
-K = MSGround(ABrick = ev3,LeftTopX = 0, LeftTopY = 0 ,BlockSize = 12, XBlockCount = 13 , YBlockCount = 8, UseBorder = True, UseGrid = False , GridVisible = True)
+K = MSGround(ABrick = ev3, LeftTopX = 0, LeftTopY = 0 ,BlockSize = 12, XBlockCount = 13 , YBlockCount = 8, UseBorder = True, UseGrid = False , GridVisible = True)
 #L = MSGround(ABrick = ev3, LeftTopX = 2, LeftTopY = 30 ,BlockSize = 5, XBlockCount = 29 , YBlockCount = 16, GridVisible = False)
 L = MSGround(ABrick = ev3, LeftTopX = 4, LeftTopY = 13 ,BlockSize = 7, XBlockCount = 21 , YBlockCount = 14, GridVisible = False)
 
