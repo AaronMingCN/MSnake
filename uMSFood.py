@@ -14,8 +14,8 @@
 ###################################################################
 
 
-from UMSGround import MSGround
-from UMSnake import *
+from uMSGround import MSGround
+from uMSnake import *
 import random
 
 

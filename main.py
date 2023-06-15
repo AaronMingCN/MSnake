@@ -21,10 +21,10 @@
 
 
 import time
-from UMSGround import MSGround
-from UMSnake import *
-from UMSFood import *
-from UMSControler import *
+from uMSGround import MSGround
+from uMSnake import *
+from uMSFood import *
+from uMSControler import *
 
 
 G = MSGround(ABrick = ev3, GridVisible = True)

@@ -12,7 +12,7 @@
 #
 ###################################################################
 
-from UMSGround import MSGround
+from uMSGround import MSGround
 
 # 定义蛇的方向常量
 MSDirec_Up = 0

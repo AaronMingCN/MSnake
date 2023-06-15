@@ -19,8 +19,8 @@ from pybricks.tools import wait, StopWatch, DataLog
 from pybricks.media.ev3dev import SoundFile, ImageFile
 from pybricks.media.ev3dev import Font  # 引入字体类
 
-from UMSGround import MSGround
-from UMSnake import *
+from uMSGround import MSGround
+from uMSnake import *
 import time
 
 
