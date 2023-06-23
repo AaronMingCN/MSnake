@@ -1,4 +1,9 @@
 重构:
     ☐ 创建IMSRender接口
     ☐ 创建MSREV3类实现IMSRender接口,封装EV3屏幕绘制相关功能
+    ☐ 从MSControl中提出控制相关方法创建IMSInput接口
     ☐ 控制部分采用线程模式执行主循环
+
+扩展及优化:
+    ☐ 使用turtle库创建MSRTurtle类实现IMSRender接口
+    ☐ 使用pygame库创建MSRPygame类实现IMSRender接口
