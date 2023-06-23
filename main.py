@@ -24,7 +24,7 @@ import time
 from uMSGround import MSGround
 from uMSnake import *
 from uMSFood import *
-from uMSControler import *
+from uMSControl import *
 
 
 G = MSGround(ABrick = ev3, GridVisible = True)
@@ -44,5 +44,5 @@ ASnake = MSnake(MG, BodyLength = 5)
 #创建蛇的食物
 AMSFood = MSFood(ASnake,MaxFoodCount = 3)
 
-AControler = MSControler(ASnake,AMSFood)
+AControler = MSControl(ASnake,AMSFood)
 AControler.Run()

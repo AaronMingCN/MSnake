@@ -28,7 +28,7 @@ import time
 ev3 = EV3Brick()
 
 
-class MSControler:
+class MSControl:
     # 构造函数
     def __init__(self, ASnake, AFood):
         self.ASnake = ASnake  # 蛇
